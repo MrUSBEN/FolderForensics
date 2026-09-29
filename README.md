@@ -9,6 +9,8 @@ maintained lookup database.
 It never deletes anything by itself. It sorts folders into buckets with a confidence level and the
 evidence behind it, and you decide what to remove.
 
+![Folder Forensics main window](screenshots/main-window.png)
+
 ## What it does
 
 - **Works on any folder**, not just AppData. Point it at `Local`, `LocalLow`, `Roaming`,
